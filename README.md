@@ -8,7 +8,7 @@
 - Copyright © LeRobot Team
 
 
-- We also use [nanoGPT] (https://github.com/karpathy/nanoGPT) project by Andrej Karapathy in this work.
+- We also use [nanoGPT](https://github.com/karpathy/nanoGPT) project by Andrej Karapathy in this work.
 
 ## My Code
 In this repo you'll find:
