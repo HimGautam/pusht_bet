@@ -104,8 +104,7 @@ python -m lerobot.scripts.train \
   --wandb.project       pusht_bet
 
 ```
-
-![bet_pusht](https://github.com/user-attachments/assets/7c8f5193-5dfd-4ed2-8e1f-89d0dc59c253)
+![bet_pusht](https://github.com/user-attachments/assets/dff79274-536d-4489-953a-a03a275b9f95)
 
 
 #### Hyperparams
