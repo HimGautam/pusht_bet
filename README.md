@@ -79,7 +79,7 @@ The implementation is split into two main files:
 - `configuration_bet.py` :Stores all the hyperparameters (e.g. learning rate, model size, number of decoder layers, number of bins), and also defines how the LeRobot CLI loads and runs the policy.
 
 <p align="center">
-<img width="783" height="212" alt="Bet" src="https://github.com/user-attachments/assets/5b60b307-b2ae-4246-be6c-d7936127ef1f" />
+<img width="783" height="212" alt="Bet" src="https://github.com/user-attachments/assets/0e7bef31-03d3-4126-b40e-6723d8a4a7a0" />
 </p>
 
 ### 5. Training
